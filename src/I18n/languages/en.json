@@ -1,10 +1,15 @@
 {
     "titre": "hello",
-    "top": "top of the week",
-    "all":"alll tracks",
-    "pl":"playlists",
-    "search":"search",
+    "top": "Top of the week",
+    "all":"Alll tracks",
+    "pl":"Playlists",
+    "search":"Search",
     "see":"SEE ALL",
-    "get":"get",
-    "browse":"browse"
+    "get":"GET",
+    "browse":"Browse",
+    "choose":"Choose the list of genres you like",
+    "select":"Our musical selection that we have chosen for you:",
+    "logout":"Logout",
+    "toogle":"Toogle theme",
+    "next":"Next"
 }
